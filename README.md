@@ -2,50 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Steganography: Hide Secret Messages in Images</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f5f7fa;
-      color: #222;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 2em;
-    }
-    h1, h2 {
-      color: #3a3a3a;
-    }
-    code {
-      background: #eee;
-      padding: 0.2em 0.4em;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 1em;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1em 0;
-    }
-    th, td {
-      padding: 10px;
-      border: 1px solid #ddd;
-      text-align: left;
-    }
-    ul {
-      padding-left: 1.2em;
-    }
-    .emoji {
-      font-size: 1.2em;
-    }
-  </style>
+
 </head>
 <body>
 
